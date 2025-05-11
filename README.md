@@ -5,3 +5,5 @@ Please note that the project is still under development.
 Bug fixes and improvements will be added regularly.
 
 Stay tuned for updates!
+
+Gameplay video : https://www.youtube.com/watch?v=zBzXChgOX2M
