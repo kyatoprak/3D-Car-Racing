@@ -8,7 +8,7 @@ public class audio : MonoBehaviour{
     public SEF_Equalizer eq;
 
     //
-    private inputManager IN;
+    private PlayerInputManager IN;
     private GameObject audioObject;
     public carControlScript m_CarController;
 
@@ -56,7 +56,7 @@ public class audio : MonoBehaviour{
 
         eq = gameObject.AddComponent<SEF_Equalizer>();
         m_CarController = transform.root.gameObject.GetComponent<carControlScript>();
-        IN = transform.root.gameObject.GetComponent<inputManager>();
+        IN = transform.root.gameObject.GetComponent<PlayerInputManager>();
 
         lowPitchMax = (m_CarController.maxRPM / 1000) / 2;
         

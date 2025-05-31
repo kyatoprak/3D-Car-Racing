@@ -7,6 +7,9 @@ TagManager:
   - Car
   - road
   - GameManager
+  - path
+  - AI
+  - LapTrigger
   layers:
   - Default
   - TransparentFX
@@ -15,7 +18,7 @@ TagManager:
   - Water
   - UI
   - Road
-  - 
+  - roadPathVisualize
   - 
   - 
   - 

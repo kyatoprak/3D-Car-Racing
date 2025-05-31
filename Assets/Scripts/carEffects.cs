@@ -19,7 +19,6 @@ public class carEffects : MonoBehaviour
             stopSmoke();
     }
 
-    // Update is called once per frame
     public void startSmoke()
     {
         for (int i = 0; i < smoke.Length; i++)

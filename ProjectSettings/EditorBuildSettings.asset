@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AwakeScene.unity
     guid: 0af8a97b610e2b742b84681f8776eadb
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+  - enabled: 0
+    path: Assets/Scenes/testScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Scenes/demo_city_night.unity
+    path: Assets/Scenes/freeRideScene.unity
     guid: 3dd6985d248a2724291b46a30456112a
+  - enabled: 1
+    path: Assets/Scenes/raceScene.unity
+    guid: 2f7866dcf68721648a3b303af625fb92
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d216c5167235d5c4089e3f3a0b0ee8d1, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
