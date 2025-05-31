@@ -1,9 +1,9 @@
-# 3D Car Racing-Demo
+# 3D Car Race
 
-This is a demo version of a 3D car racing game developed with Unity.  
-Please note that the project is still under development.  
-Bug fixes and improvements will be added regularly.
+This is a 3D car racing game developed with Unity.
+
+The core structure and inspiration for this project were based on the tutorial by coding edge (pablos lab):
+Tutorial : https://youtu.be/6Y1bAvRYqbU?si=boK1-kOroz0sXFA7
 
 Stay tuned for updates!
-
 Gameplay video : https://www.youtube.com/watch?v=zBzXChgOX2M
